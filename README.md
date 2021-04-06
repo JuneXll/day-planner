@@ -2,7 +2,7 @@
 
 Url:https://junexll.github.io/day-planner/
 
-
+![2021-04-06 14 27 33](https://user-images.githubusercontent.com/71652307/113760522-52c0a980-96e4-11eb-9e8f-4af7becb72ac.gif)
 
 #This day planner can help you plan your work day between 9AM-5PM.
 
