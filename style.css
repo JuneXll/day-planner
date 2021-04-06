@@ -13,10 +13,6 @@ textarea {
   padding: 10px;
 }
 
-i {
-  width:50px;
-}
-
 .jumbotron {
   text-align: center;
   background-color: transparent;
@@ -36,6 +32,7 @@ i {
 
 .row {
   white-space: pre-wrap;
+  height:80px;
   border-top: 1px solid white;
 }
 
@@ -48,17 +45,17 @@ i {
 }
 
 .past {
-  background-color: #d3d3d3;
+  background-color: #d3d3d3 !important;
   color: white;
 }
 
 .present {
-  background-color: #ff6961;
+  background-color: #ff6961 !important;
   color: white;
 }
 
 .future {
-  background-color: #77dd77;
+  background-color: #77dd77 !important;
   color: white;
 }
 
